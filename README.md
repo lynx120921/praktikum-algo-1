@@ -25,3 +25,7 @@ The repository consists of the following files:
    ```bash
    git clone https://github.com/lynxcyy/praktikum-algo-1.git
    cd praktikum-algo-1
+2. Run the game by executing the main.py file:
+      ```bash
+   python main.py
+
