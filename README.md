@@ -27,5 +27,10 @@ The repository consists of the following files:
    cd praktikum-algo-1
 2. Run the game by executing the main.py file:
       ```bash
-   python main.py
-
+   py Filename.py
+for example:
+   ```bash
+   py main.py
+   py game.py
+   py game1.py
+   py monster.py
